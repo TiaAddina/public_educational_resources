@@ -5,10 +5,10 @@
 
 // Check out the video this script is based on: https://www.youtube.com/watch?v=o3AL7ASI_cA
 
-// ID FOR SPREADSHEET
+// ID FOR SOURCE SPREADSHEET
 var ssID = "INSERT_SPREADSHEET_ID_HERE";
 
-// ID FOR FORM
+// ID FOR TARGET FORM
 var formID = "INSERT_FORM_ID_HERE";
 
 // OPEN THE SHEET NAMED "DATA" FROM THE REFERENCED SPREADSHEET
