@@ -3,7 +3,10 @@
 // Email me about questions/ if you get stuck getting this set up on your account!! 
 // I'm happy to help out =))
 
-// Check out the video this script is based on: https://www.youtube.com/watch?v=o3AL7ASI_cA
+// Check out the tutorial video this script is based on (not mine): https://www.youtube.com/watch?v=o3AL7ASI_cA
+// Also check out my video going through how to set up a survey form + how to install and use this script: https://www.youtube.com/watch?v=gYe6fJFXkgA
+
+// Happy coding!!
 
 // ID FOR SOURCE SPREADSHEET
 var ssID = "INSERT_SPREADSHEET_ID_HERE";
